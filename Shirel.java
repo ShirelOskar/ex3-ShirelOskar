@@ -1,6 +1,6 @@
 public class Shirel{
 public static void main(String[] args)
-{for (int i=1;i<=10;i++){System.out.println("Shirel Oskar" + i);
+{for (int i=1;i<=10;i++){System.out.println(" no Shirel Oskar" + i);
 }
 }
 }
